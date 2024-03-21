@@ -3,10 +3,11 @@
     "name": "e_learning",
     "slug": "e_learning",
     "version": "1.0.0",
+    "scheme": "e_learning",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
     "userInterfaceStyle": "light",
-    "splash": {
+    "splash": { 
       "image": "./assets/splash.png",
       "resizeMode": "contain",
       "backgroundColor": "#ffffff"
